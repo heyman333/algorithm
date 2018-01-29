@@ -6,9 +6,3 @@
 
 
 출처: http://codingdojang.com/scode/408?langby=#answer-filter-area
-
-
-## 2nd Problem 🖊 (2018.01.29.월)
-
-다음을 quick sort를 이용해서 정렬하시오.   
-(10, 5, 3, 1, 2, 7, 9, 4, 6, 8) 
